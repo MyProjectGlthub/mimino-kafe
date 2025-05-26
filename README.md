@@ -1,2 +1,1 @@
-# mimino-kafe
-Mimino
+
